@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork #8\\LabProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23301650-0FAF-44FC-996C-6C3FBA8806CC}|SecondConsoleApplication\\SecondConsoleApplication.vcxproj|C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork #8\\LabProject\\SecondConsoleApplication\\SecondConsoleApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23301650-0FAF-44FC-996C-6C3FBA8806CC}|SecondConsoleApplication\\SecondConsoleApplication.vcxproj|solutionrelative:SecondConsoleApplication\\SecondConsoleApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54D7AA-9346-4168-9FCD-F7D5D3AF7C93}|FirstConsoleApplication\\FirstConsoleApplication.vcxproj|C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork #8\\LabProject\\FirstConsoleApplication\\FirstConsoleApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC54D7AA-9346-4168-9FCD-F7D5D3AF7C93}|FirstConsoleApplication\\FirstConsoleApplication.vcxproj|solutionrelative:FirstConsoleApplication\\FirstConsoleApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 413,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondConsoleApplication.cpp",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork #8\\LabProject\\SecondConsoleApplication\\SecondConsoleApplication.cpp",
+              "RelativeDocumentMoniker": "SecondConsoleApplication\\SecondConsoleApplication.cpp",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork #8\\LabProject\\SecondConsoleApplication\\SecondConsoleApplication.cpp",
+              "RelativeToolTip": "SecondConsoleApplication\\SecondConsoleApplication.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-13T07:33:47.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstConsoleApplication.cpp",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork #8\\LabProject\\FirstConsoleApplication\\FirstConsoleApplication.cpp",
+              "RelativeDocumentMoniker": "FirstConsoleApplication\\FirstConsoleApplication.cpp",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork #8\\LabProject\\FirstConsoleApplication\\FirstConsoleApplication.cpp",
+              "RelativeToolTip": "FirstConsoleApplication\\FirstConsoleApplication.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-13T07:28:20.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
