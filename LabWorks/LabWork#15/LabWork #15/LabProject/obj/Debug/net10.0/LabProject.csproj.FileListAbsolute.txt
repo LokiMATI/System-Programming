@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\bin\Debug\net10.0\LabProject.exe
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\bin\Debug\net10.0\LabProject.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\bin\Debug\net10.0\LabProject.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\bin\Debug\net10.0\LabProject.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\bin\Debug\net10.0\LabProject.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\obj\Debug\net10.0\LabProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\obj\Debug\net10.0\LabProject.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\obj\Debug\net10.0\LabProject.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\obj\Debug\net10.0\LabProject.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\obj\Debug\net10.0\LabProject.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\obj\Debug\net10.0\LabProject.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\obj\Debug\net10.0\refint\LabProject.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\obj\Debug\net10.0\LabProject.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\obj\Debug\net10.0\LabProject.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#15\LabWork #15\LabProject\obj\Debug\net10.0\ref\LabProject.dll

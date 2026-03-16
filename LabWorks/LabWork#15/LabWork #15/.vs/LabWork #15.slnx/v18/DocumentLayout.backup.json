@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#15\\LabWork #15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98AFB9B7-EBB1-4325-B94B-66C12C38D46E}|LabProject\\LabProject.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#15\\labwork #15\\labproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AFB9B7-EBB1-4325-B94B-66C12C38D46E}|LabProject\\LabProject.csproj|solutionrelative:labproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AFB9B7-EBB1-4325-B94B-66C12C38D46E}|LabProject\\LabProject.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#15\\labwork #15\\labproject\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AFB9B7-EBB1-4325-B94B-66C12C38D46E}|LabProject\\LabProject.csproj|solutionrelative:labproject\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AFB9B7-EBB1-4325-B94B-66C12C38D46E}|LabProject\\LabProject.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#15\\labwork #15\\labproject\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AFB9B7-EBB1-4325-B94B-66C12C38D46E}|LabProject\\LabProject.csproj|solutionrelative:labproject\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AFB9B7-EBB1-4325-B94B-66C12C38D46E}|LabProject\\LabProject.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#15\\labwork #15\\labproject\\datastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AFB9B7-EBB1-4325-B94B-66C12C38D46E}|LabProject\\LabProject.csproj|solutionrelative:labproject\\datastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataStruct.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#15\\LabWork #15\\LabProject\\DataStruct.cs",
+              "RelativeDocumentMoniker": "LabProject\\DataStruct.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#15\\LabWork #15\\LabProject\\DataStruct.cs",
+              "RelativeToolTip": "LabProject\\DataStruct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:25:48.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#15\\LabWork #15\\LabProject\\Test.cs",
+              "RelativeDocumentMoniker": "LabProject\\Test.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#15\\LabWork #15\\LabProject\\Test.cs",
+              "RelativeToolTip": "LabProject\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:02:29.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#15\\LabWork #15\\LabProject\\FileLogger.cs",
+              "RelativeDocumentMoniker": "LabProject\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#15\\LabWork #15\\LabProject\\FileLogger.cs",
+              "RelativeToolTip": "LabProject\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:02:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#15\\LabWork #15\\LabProject\\Program.cs",
+              "RelativeDocumentMoniker": "LabProject\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#15\\LabWork #15\\LabProject\\Program.cs",
+              "RelativeToolTip": "LabProject\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAYwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:44:10.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

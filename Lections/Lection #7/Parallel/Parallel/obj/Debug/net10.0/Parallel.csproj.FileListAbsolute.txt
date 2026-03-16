@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\bin\Debug\net10.0\Parallel.exe
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\bin\Debug\net10.0\Parallel.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\bin\Debug\net10.0\Parallel.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\bin\Debug\net10.0\Parallel.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\bin\Debug\net10.0\Parallel.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\obj\Debug\net10.0\Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\obj\Debug\net10.0\Parallel.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\obj\Debug\net10.0\Parallel.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\obj\Debug\net10.0\Parallel.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\obj\Debug\net10.0\Parallel.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\obj\Debug\net10.0\Parallel.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\obj\Debug\net10.0\refint\Parallel.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\obj\Debug\net10.0\Parallel.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\obj\Debug\net10.0\Parallel.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #7\Parallel\Parallel\obj\Debug\net10.0\ref\Parallel.dll
