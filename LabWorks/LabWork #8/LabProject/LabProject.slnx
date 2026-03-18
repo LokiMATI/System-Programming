@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="FirstConsoleApplication/FirstConsoleApplication.vcxproj" />
-  <Project Path="SecondConsoleApplication/SecondConsoleApplication.vcxproj" />
+  <Project Path="FirstConsoleApplication/FirstConsoleApplication.vcxproj" Id="dc54d7aa-9346-4168-9fcd-f7d5d3af7c93" />
+  <Project Path="SecondConsoleApplication/SecondConsoleApplication.vcxproj" Id="23301650-0faf-44fc-996c-6c3fba8806cc" />
 </Solution>
