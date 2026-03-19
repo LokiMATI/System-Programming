@@ -1,7 +1,4 @@
-﻿using System.Threading;
-using System.Threading.Tasks;
-
-/*
+﻿/*
 Thread current = Thread.CurrentThread;
 
 Console.WriteLine(current.ManagedThreadId);
@@ -13,6 +10,7 @@ Thread printThreed = new(() => Console.WriteLine("Print"));
 printThreed.Start();
 */
 
+/*
 Task task = new(() => Console.WriteLine("1"));
 task.Start();
 
@@ -40,3 +38,28 @@ Task<int> taskRes = new(() =>
 taskRes.Start();
 
 Console.WriteLine(taskRes.Result);
+*/
+
+Parallel.Invoke(
+    Print,
+    () => { Console.WriteLine("Привет, Слава"); },
+    () => PrintHello("Никита")
+    );
+
+Parallel.For(1, 11, Square);
+
+void Print()
+{
+    Console.WriteLine("Привет Ким");
+}
+
+void PrintHello(string name)
+{
+    Console.WriteLine($"Привет, {name}");
+}
+
+void Square(int n)
+{
+    Console.WriteLine(n * n);
+    Thread.Sleep(1000);
+}

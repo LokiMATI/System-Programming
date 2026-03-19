@@ -1,0 +1,267 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LabApplication/1.0.0": {
+        "dependencies": {
+          "System.CommandLine": "2.0.5",
+          "Terminal.Gui": "2.0.0-alpha.4309"
+        },
+        "runtime": {
+          "LabApplication.dll": {}
+        }
+      },
+      "ColorHelper/1.8.1": {
+        "runtime": {
+          "lib/netstandard2.0/ColorHelper.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          }
+        }
+      },
+      "JetBrains.Annotations/2025.2.2": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "4242.42.42.42",
+            "fileVersion": "2025.2.2.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.52809"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/9.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.52809"
+          }
+        }
+      },
+      "System.CommandLine/2.0.5": {
+        "runtime": {
+          "lib/net8.0/System.CommandLine.dll": {
+            "assemblyVersion": "2.0.5.0",
+            "fileVersion": "2.0.526.15411"
+          }
+        },
+        "resources": {
+          "lib/net8.0/cs/System.CommandLine.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net8.0/de/System.CommandLine.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net8.0/es/System.CommandLine.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net8.0/fr/System.CommandLine.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net8.0/it/System.CommandLine.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net8.0/ja/System.CommandLine.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net8.0/ko/System.CommandLine.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net8.0/pl/System.CommandLine.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net8.0/pt-BR/System.CommandLine.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net8.0/ru/System.CommandLine.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net8.0/tr/System.CommandLine.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net8.0/zh-Hans/System.CommandLine.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net8.0/zh-Hant/System.CommandLine.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "System.IO.Abstractions/22.0.16": {
+        "dependencies": {
+          "TestableIO.System.IO.Abstractions": "22.0.16",
+          "TestableIO.System.IO.Abstractions.Wrappers": "22.0.16"
+        },
+        "runtime": {
+          "lib/net9.0/System.IO.Abstractions.dll": {
+            "assemblyVersion": "22.0.16.0",
+            "fileVersion": "22.0.16.0"
+          }
+        }
+      },
+      "Terminal.Gui/2.0.0-alpha.4309": {
+        "dependencies": {
+          "ColorHelper": "1.8.1",
+          "JetBrains.Annotations": "2025.2.2",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.0",
+          "System.IO.Abstractions": "22.0.16",
+          "Wcwidth": "4.0.0"
+        },
+        "runtime": {
+          "lib/net10.0/Terminal.Gui.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        },
+        "resources": {
+          "lib/net10.0/fr-FR/Terminal.Gui.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "lib/net10.0/ja-JP/Terminal.Gui.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "lib/net10.0/pt-PT/Terminal.Gui.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "lib/net10.0/zh-Hans/Terminal.Gui.resources.dll": {
+            "locale": "zh-Hans"
+          }
+        }
+      },
+      "TestableIO.System.IO.Abstractions/22.0.16": {
+        "dependencies": {
+          "Testably.Abstractions.FileSystem.Interface": "9.0.0"
+        },
+        "runtime": {
+          "lib/net9.0/TestableIO.System.IO.Abstractions.dll": {
+            "assemblyVersion": "22.0.16.0",
+            "fileVersion": "22.0.16.0"
+          }
+        }
+      },
+      "TestableIO.System.IO.Abstractions.Wrappers/22.0.16": {
+        "dependencies": {
+          "Testably.Abstractions.FileSystem.Interface": "9.0.0"
+        },
+        "runtime": {
+          "lib/net9.0/TestableIO.System.IO.Abstractions.Wrappers.dll": {
+            "assemblyVersion": "22.0.16.0",
+            "fileVersion": "22.0.16.0"
+          }
+        }
+      },
+      "Testably.Abstractions.FileSystem.Interface/9.0.0": {
+        "runtime": {
+          "lib/net9.0/Testably.Abstractions.FileSystem.Interface.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        }
+      },
+      "Wcwidth/4.0.0": {
+        "runtime": {
+          "lib/net10.0/Wcwidth.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ColorHelper/1.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rblWXd/02TfwJjX53xEfQnbnDRKxCm09VtavV8JaIcmIFWt9efNf6xTQ3WeXgy/she5R31eRTtnizFoUoDrs5w==",
+      "path": "colorhelper/1.8.1",
+      "hashPath": "colorhelper.1.8.1.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2025.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0X56ZRizuHdrnPpgXjWV7f2tQO1FlQg5O1967OGKnI/4ZRNOK642J8L7brM1nYvrxTTU5TP1yRyXLRLaXLPQ8A==",
+      "path": "jetbrains.annotations/2025.2.2",
+      "hashPath": "jetbrains.annotations.2025.2.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+6f2qv2a3dLwd5w6JanPIPs47CxRbnk+ZocMJUhv9NxP88VlOcJYZs9jY+MYSjxvady08bUZn6qgiNh7DadGgg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g0UfujELzlLbHoVG8kPKVBaW470Ewi+jnptGS9KUi6jcb+k2StujtK3m26DFSGGwQ/+bVgZfsWqNzlP6YOejvw==",
+      "path": "microsoft.extensions.logging.abstractions/9.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512"
+    },
+    "System.CommandLine/2.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2XtWAPk1G6arpe3OCFNrYYuf6iIboznxs2elJSGgd8e0euou7LfGYFon6hBEfDWNtOLr0M3+oUVgy1a5EGa41A==",
+      "path": "system.commandline/2.0.5",
+      "hashPath": "system.commandline.2.0.5.nupkg.sha512"
+    },
+    "System.IO.Abstractions/22.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qDB595QEPyyguFNzKDIiy8MqMBuag4GeU/nJOiRDopwUtc40lLA8acW+/pxNny7s9kEQ3YSKbAOR8xJcjujHFg==",
+      "path": "system.io.abstractions/22.0.16",
+      "hashPath": "system.io.abstractions.22.0.16.nupkg.sha512"
+    },
+    "Terminal.Gui/2.0.0-alpha.4309": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Aj+pFPEPylvyqj9GsVyy1xzscZxmqA5GAsV97WB9CulwpgmajEnjpNxHW1SKhz/tcet5pRx8Py5sm6HownmVBw==",
+      "path": "terminal.gui/2.0.0-alpha.4309",
+      "hashPath": "terminal.gui.2.0.0-alpha.4309.nupkg.sha512"
+    },
+    "TestableIO.System.IO.Abstractions/22.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZYDFchhWab1FELpnJUJI3gHX/jAEKLiENnnKmUWyGjR6BklGhItxU2rCmwzwMXsd6C2CUpMU+YSXlKdpxNPkBQ==",
+      "path": "testableio.system.io.abstractions/22.0.16",
+      "hashPath": "testableio.system.io.abstractions.22.0.16.nupkg.sha512"
+    },
+    "TestableIO.System.IO.Abstractions.Wrappers/22.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QUX0TLMvnRLEgvuMRotrZKN9eCdX4yzK7HJCaPj17T4jvUf+G4XifdLpB5wmRct2zKlscYzpWMOmHjKabse3yw==",
+      "path": "testableio.system.io.abstractions.wrappers/22.0.16",
+      "hashPath": "testableio.system.io.abstractions.wrappers.22.0.16.nupkg.sha512"
+    },
+    "Testably.Abstractions.FileSystem.Interface/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uksk86YlnzAdyfVNu3wICU0X5iXVe9LF7Q3UkngNliHWEvM5gvAlOUr+jmd9JwmbJWISH5+i1vyXE02lEVz7WQ==",
+      "path": "testably.abstractions.filesystem.interface/9.0.0",
+      "hashPath": "testably.abstractions.filesystem.interface.9.0.0.nupkg.sha512"
+    },
+    "Wcwidth/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WN/MuHXS2MKYP2xw0CsuEVMhL8esvsMK/w9rZ1Wv//8LonIUpEXmG+grp2DSGwoVdkVYRanOveJ7iILScQTREQ==",
+      "path": "wcwidth/4.0.0",
+      "hashPath": "wcwidth.4.0.0.nupkg.sha512"
+    }
+  }
+}

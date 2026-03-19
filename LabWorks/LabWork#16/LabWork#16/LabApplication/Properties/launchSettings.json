@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LabApplication": {
+      "commandName": "Project",
+      "commandLineArgs": "--login Lucky\r\n--ui"
+    }
+  }
+}
