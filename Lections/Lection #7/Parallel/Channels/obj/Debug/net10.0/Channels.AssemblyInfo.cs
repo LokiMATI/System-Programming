@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Parallel")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Channels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e72668e8d0758503a2c59f1fc6077267ebecd291")]
-[assembly: System.Reflection.AssemblyProductAttribute("Parallel")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Parallel")]
+[assembly: System.Reflection.AssemblyProductAttribute("Channels")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Channels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

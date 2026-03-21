@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Channels/Channels.csproj" Id="de8b7317-631e-4650-b591-0fc1e201108b" />
   <Project Path="Parallel/Parallel.csproj" />
 </Solution>

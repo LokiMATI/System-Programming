@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #7\\Parallel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE8B7317-631E-4650-B591-0FC1E201108B}|Channels\\Channels.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\lection #7\\parallel\\channels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B7317-631E-4650-B591-0FC1E201108B}|Channels\\Channels.csproj|solutionrelative:channels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BDDF017-E86C-7FC9-195C-70A535FBF648}|Parallel\\Parallel.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\lection #7\\parallel\\parallel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BDDF017-E86C-7FC9-195C-70A535FBF648}|Parallel\\Parallel.csproj|solutionrelative:parallel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #7\\Parallel\\Channels\\Program.cs",
+              "RelativeDocumentMoniker": "Channels\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #7\\Parallel\\Channels\\Program.cs",
+              "RelativeToolTip": "Channels\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:41:07.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #7\\Parallel\\Parallel\\Program.cs",
               "RelativeDocumentMoniker": "Parallel\\Program.cs",
-              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #7\\Parallel\\Parallel\\Program.cs*",
-              "RelativeToolTip": "Parallel\\Program.cs*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #7\\Parallel\\Parallel\\Program.cs",
+              "RelativeToolTip": "Parallel\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T08:49:12.377Z",
               "EditorCaption": ""
