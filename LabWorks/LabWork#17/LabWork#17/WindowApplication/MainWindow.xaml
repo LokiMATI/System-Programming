@@ -1,0 +1,41 @@
+﻿<Window x:Class="WindowApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WindowApplication"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="9*"/>
+        </Grid.RowDefinitions>
+        <Menu Name="MainMenu" Grid.Row="0">
+            <MenuItem Name="CopyMenuItem" Header="Копировать" Click="CopyMenuItem_Click"/>
+            <MenuItem Name="PasteMenuItem" Header="Вставить" Click="PasteMenuItem_Click"/>
+            <MenuItem Name="ArchiveMenuItem" Header="Сжать в архив" Click="ArchiveMenuItem_Click"/>
+            <MenuItem Name="DearchiveMenuItem" Header="Извлечь из архива" Click="DearchiveMenuItem_Click"/>
+        </Menu>
+        
+        <TextBox Name="DirectoryTextBox" Grid.Row="1" Text="C:\Users\221"/>
+
+        <ListBox Name="FilesAndDirictoriesListBox" Grid.Row="2" 
+                 MouseDoubleClick="FilesAndDirictoriesListBox_MouseDoubleClick"
+                 ItemsSource="{Binding Objects}"
+                 SelectionMode="Extended">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <Image Width="100" Height="70" Source="{Binding Path=ImagePath}"/>
+                        <TextBlock Width="100" Height="70" Text="{Binding Path=ObjectName}"/>
+                        <TextBlock Width="100" Height="70" Text="{Binding Path=EditDate}"/>
+                        <TextBlock Width="100" Height="70" Text="{Binding Path=ObjectSize}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+    </Grid>
+</Window>
