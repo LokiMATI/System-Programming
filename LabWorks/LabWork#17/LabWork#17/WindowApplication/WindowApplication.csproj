@@ -12,6 +12,7 @@
     <None Remove="Icons\audio_file.png" />
     <None Remove="Icons\default_file.png" />
     <None Remove="Icons\folder.png" />
+    <None Remove="Icons\hard_drive.png" />
     <None Remove="Icons\image_file.png" />
     <None Remove="Icons\text_file.png" />
   </ItemGroup>
@@ -23,6 +24,7 @@
   <ItemGroup>
     <Resource Include="Icons\audio_file.png" />
     <Resource Include="Icons\folder.png" />
+    <Resource Include="Icons\hard_drive.png" />
     <Resource Include="Icons\image_file.png" />
     <Resource Include="Icons\text_file.png" />
   </ItemGroup>

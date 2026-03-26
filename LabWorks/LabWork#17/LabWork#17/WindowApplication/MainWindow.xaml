@@ -5,7 +5,38 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WindowApplication"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Window.Resources>
+        <DataTemplate x:Key="DriverTemplate" DataType="local:DriveManagerInfo">
+            <StackPanel Orientation="Horizontal" Margin="15">
+                <Image Width="100" Height="70" Source="{Binding Path=ImagePath}"/>
+                <TextBlock Width="100" Height="70" Text="{Binding Path=Name}"/>
+                <StackPanel>
+                    <TextBlock Height="30" Text="{Binding Path=Size}"/>
+                    <ProgressBar Minimum="0" Maximum="{Binding Path=TotalSize}" Value="{Binding Path=OccupiedSize}"
+                                 Height="20" Width="100"/>
+                </StackPanel>
+                
+            </StackPanel>
+        </DataTemplate>
+        
+        <DataTemplate x:Key="FileTemplete" DataType="local:FileManagerInfo">
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <Image Width="100" Height="70" Source="{Binding Path=ImagePath}"/>
+                <TextBlock Width="100" Height="70" Text="{Binding Path=Name}"/>
+                <TextBlock Width="100" Height="70" Text="{Binding Path=EditDate}"/>
+                <TextBlock Width="100" Height="70" Text="{Binding Path=Size}"/>
+            </StackPanel>
+        </DataTemplate>
+
+        <DataTemplate x:Key="DirectoryTemplete" DataType="local:DirectoryManagerInfo">
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <Image Width="100" Height="70" Source="{Binding Path=ImagePath}"/>
+                <TextBlock Width="100" Height="70" Text="{Binding Path=Name}"/>
+            </StackPanel>
+        </DataTemplate>
+    </Window.Resources>
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
@@ -17,24 +48,21 @@
             <MenuItem Name="PasteMenuItem" Header="Вставить" Click="PasteMenuItem_Click"/>
             <MenuItem Name="ArchiveMenuItem" Header="Сжать в архив" Click="ArchiveMenuItem_Click"/>
             <MenuItem Name="DearchiveMenuItem" Header="Извлечь из архива" Click="DearchiveMenuItem_Click"/>
+            <MenuItem Name="PropertyMenuItem" Header="Свйоства" Click="PropertyMenuItem_Click"/>
         </Menu>
-        
-        <TextBox Name="DirectoryTextBox" Grid.Row="1" Text="C:\Users\221"/>
+
+        <TextBox Name="DirectoryTextBox" Grid.Row="1"
+                 TextChanged="DirectoryTextBox_TextChanged"/>
 
         <ListBox Name="FilesAndDirictoriesListBox" Grid.Row="2" 
                  MouseDoubleClick="FilesAndDirictoriesListBox_MouseDoubleClick"
-                 ItemsSource="{Binding Objects}"
                  SelectionMode="Extended">
-            <ListBox.ItemTemplate>
-                <DataTemplate>
-                    <StackPanel Orientation="Horizontal" Margin="5">
-                        <Image Width="100" Height="70" Source="{Binding Path=ImagePath}"/>
-                        <TextBlock Width="100" Height="70" Text="{Binding Path=ObjectName}"/>
-                        <TextBlock Width="100" Height="70" Text="{Binding Path=EditDate}"/>
-                        <TextBlock Width="100" Height="70" Text="{Binding Path=ObjectSize}"/>
-                    </StackPanel>
-                </DataTemplate>
-            </ListBox.ItemTemplate>
+            <ListBox.ItemTemplateSelector>
+                <local:ManagerDataTemplateSelector
+                    FileTemplate="{StaticResource FileTemplete}"
+                    DirectoryTemplate="{StaticResource DirectoryTemplete}"
+                    DriveTemplate="{StaticResource DriverTemplate}"/>
+            </ListBox.ItemTemplateSelector>
         </ListBox>
 
     </Grid>

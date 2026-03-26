@@ -1,20 +1,12 @@
 ﻿using System.Diagnostics;
 using System.IO;
-using System.Security.AccessControl;
-using System.Text;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
-using System.IO;
 using Path = System.IO.Path;
 using System.Collections.Specialized;
 using System.IO.Compression;
+using WindowApplication.Windows;
 
 namespace WindowApplication
 {
@@ -23,63 +15,76 @@ namespace WindowApplication
     /// </summary>
     public partial class MainWindow : Window
     {
-        public List<ObjectInfo> Objects = new();
+        public List<ObjectManagerInfo> Objects = new();
         public MainWindow()
         {
             InitializeComponent();
-            LoadDirectory();
-
         }
 
         private void LoadDirectory()
         {
             Objects.Clear();
             FilesAndDirictoriesListBox.ItemsSource = null;
-            DirectoryInfo directory = new(DirectoryTextBox.Text);
-            if (directory.Exists)
+            if (string.IsNullOrWhiteSpace(DirectoryTextBox.Text))
             {
-                Objects.Add(new ObjectInfo()
-                {
-                    ObjectName = "...",
-                    ImagePath = @"/Icons/folder.png",
-                    Type = ObjectType.Directory
-                });
-                Objects.AddRange(directory.GetFiles().Select(f => new ObjectInfo(f)));
-                Objects.AddRange(directory.GetDirectories().Select(d => new ObjectInfo(d)));
+                Objects.AddRange(DriveInfo.GetDrives().Select(d => new DriveManagerInfo(d)));
             }
+            else
+            {
+                DirectoryInfo directory = new(DirectoryTextBox.Text);
+                if (directory.Exists)
+                {
+                    Objects.Add(new DirectoryManagerInfo(directory)
+                    {
+                        Name = "..."
+                    });
+                    Objects.AddRange(directory.GetFiles().Select(f => new FileManagerInfo(f)));
+                    Objects.AddRange(directory.GetDirectories().Select(d => new DirectoryManagerInfo(d)));
+                }
+            }
+                
             FilesAndDirictoriesListBox.ItemsSource = Objects;
         }
 
         private void FilesAndDirictoriesListBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
-            var selectedObject = FilesAndDirictoriesListBox.SelectedItem as ObjectInfo;
+            var selectedObject = FilesAndDirictoriesListBox.SelectedItem as ObjectManagerInfo;
 
-            if (selectedObject.Type == ObjectType.Directory)
+            if (selectedObject is DirectoryManagerInfo directory)
             {
                 string path = DirectoryTextBox.Text;
-                if (selectedObject.ObjectName == "...") 
+                if (directory.Name == "...") 
                 {
                     DirectoryInfo info = new(DirectoryTextBox.Text);
 
-                    if (info.Exists)
+                    if (info.Exists && info.Parent is not null)
                         path = info.Parent.FullName;
+                    else
+                        path = "";
                 }
                 else
                 {
-                    path = Path.Combine(DirectoryTextBox.Text, selectedObject.ObjectName);
+                    path = Path.Combine(DirectoryTextBox.Text, directory.Name);
                 }
                 DirectoryTextBox.Text = path;
                 LoadDirectory();
             }
-            else
+            else if (selectedObject is FileManagerInfo file)
             {
-                var path = Path.Combine(DirectoryTextBox.Text, selectedObject.ObjectName);
+                var path = Path.Combine(DirectoryTextBox.Text, file.Name);
                 if (File.Exists(path))
                 {
                     ProcessStartInfo info = new ("explorer", path);
                     Process.Start(info);
                 }
-                   
+            }
+            else if (selectedObject is DriveManagerInfo drive)
+            {
+                if (!string.IsNullOrWhiteSpace(DirectoryTextBox.Text))
+                    return;
+
+                DirectoryTextBox.Text = Path.Combine(drive.Name);
+                LoadDirectory();
             }
         }
 
@@ -88,9 +93,9 @@ namespace WindowApplication
             if (FilesAndDirictoriesListBox.SelectedItems.Count == 0)
                 return;
 
-            var objects = FilesAndDirictoriesListBox.SelectedItems.Cast<ObjectInfo>().Where(o => o.Type == ObjectType.File);
+            var objects = FilesAndDirictoriesListBox.SelectedItems.Cast<ObjectManagerInfo>().Where(o => o is FileManagerInfo);
             StringCollection stringCollection = new();
-            var paths = objects.Select(o => Path.Combine(DirectoryTextBox.Text, o.ObjectName));
+            var paths = objects.Select(o => Path.Combine(DirectoryTextBox.Text, o.Name));
             stringCollection.AddRange(paths.ToArray());
 
             Clipboard.SetFileDropList(stringCollection);
@@ -118,9 +123,9 @@ namespace WindowApplication
             if (FilesAndDirictoriesListBox.SelectedItems.Count == 0)
                 return;
 
-            var folder = FilesAndDirictoriesListBox.SelectedItems.Cast<ObjectInfo>().Where(o => o.Type == ObjectType.Directory).First();
+            var folder = FilesAndDirictoriesListBox.SelectedItems.Cast<ObjectManagerInfo>().Where(o => o is DirectoryManagerInfo).First();
 
-            var source = Path.Combine(DirectoryTextBox.Text, folder.ObjectName);
+            var source = Path.Combine(DirectoryTextBox.Text, folder.Name);
             ZipFile.CreateFromDirectory(source, source + ".zip");
 
             LoadDirectory();
@@ -131,9 +136,9 @@ namespace WindowApplication
             if (FilesAndDirictoriesListBox.SelectedItems.Count == 0)
                 return;
 
-            var file = FilesAndDirictoriesListBox.SelectedItems.Cast<ObjectInfo>().Where(o => o.Type == ObjectType.File).First();
+            var file = FilesAndDirictoriesListBox.SelectedItems.Cast<ObjectManagerInfo>().Where(o => o is FileManagerInfo).First();
 
-            var path = Path.Combine(DirectoryTextBox.Text, file.ObjectName);
+            var path = Path.Combine(DirectoryTextBox.Text, file.Name);
             FileInfo info = new(path);
 
             if (info.Extension == ".zip")
@@ -141,6 +146,27 @@ namespace WindowApplication
 
             ZipFile.ExtractToDirectory(path, DirectoryTextBox.Text);
             LoadDirectory();
+        }
+
+        private void DirectoryTextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            LoadDirectory();
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            LoadDirectory();
+        }
+
+        private void PropertyMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            var selectedItem = (ObjectManagerInfo)FilesAndDirictoriesListBox.SelectedItem;
+
+            if (selectedItem is DriveManagerInfo drive)
+            {
+                DriverPropertyWindow window = new(DriveInfo.GetDrives().First(d => d.Name == drive.Name));
+                window.ShowDialog();
+            }
         }
     }
 }
