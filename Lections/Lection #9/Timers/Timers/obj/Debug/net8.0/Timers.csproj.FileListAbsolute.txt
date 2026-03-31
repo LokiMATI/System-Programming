@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\bin\Debug\net8.0\Timers.exe
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\bin\Debug\net8.0\Timers.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\bin\Debug\net8.0\Timers.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\bin\Debug\net8.0\Timers.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\bin\Debug\net8.0\Timers.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\obj\Debug\net8.0\Timers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\obj\Debug\net8.0\Timers.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\obj\Debug\net8.0\Timers.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\obj\Debug\net8.0\Timers.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\obj\Debug\net8.0\Timers.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\obj\Debug\net8.0\Timers.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\obj\Debug\net8.0\refint\Timers.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\obj\Debug\net8.0\Timers.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\obj\Debug\net8.0\Timers.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #9\Timers\Timers\obj\Debug\net8.0\ref\Timers.dll
