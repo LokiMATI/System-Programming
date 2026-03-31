@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "ConsoleApp": {
+      "commandName": "Project"
+    },
+    "DateSort": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir \"C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\temp\"\r\n--type date"
+    },
+    "ExtensionSort": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir \"C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\temp\"\r\n--type ext"
+    },
+    "ClearSubdirictories": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir \"C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\temp\""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "profiles": {
+    "SearchDublicateConsoleApp": {
+      "commandName": "Project"
+    },
+    "OneLevelSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir \"C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\temp\""
+    },
+    "RecursiveSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir \"C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\temp\"\r\n-r"
+    },
+    "RecursiveDeleteSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir \"C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\temp\"\r\n-r\r\n-d"
+    },
+    "OneLevelDeleteSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir \"C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\temp\"\r\n-d"
+    }
+  }
+}

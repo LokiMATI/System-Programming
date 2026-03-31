@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\LabWork19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D033BF26-D6FF-4A22-ADB0-CA5EF2F78993}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#19\\labwork19\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D033BF26-D6FF-4A22-ADB0-CA5EF2F78993}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEB8881-3305-4806-B82C-E3739C08776B}|SearchDublicateConsoleApp\\SearchDublicateConsoleApp.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#19\\labwork19\\searchdublicateconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEB8881-3305-4806-B82C-E3739C08776B}|SearchDublicateConsoleApp\\SearchDublicateConsoleApp.csproj|solutionrelative:searchdublicateconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\LabWork19\\SearchDublicateConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "SearchDublicateConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\LabWork19\\SearchDublicateConsoleApp\\Program.cs",
+              "RelativeToolTip": "SearchDublicateConsoleApp\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T08:05:47.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\LabWork19\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#19\\LabWork19\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:02:42.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
