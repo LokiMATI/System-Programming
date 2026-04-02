@@ -1,0 +1,80 @@
+﻿<Window x:Class="LabApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <ContextMenu x:Key="ProcessContextMenu">
+            <MenuItem Name="ExitProcess" Header="Снять задачу" Click="ExitProcess_Click"/>
+        </ContextMenu>
+    </Window.Resources>
+    
+    <TabControl>
+        <TabItem Name="ProcessesTabItem" IsSelected="True">
+            
+            <TabItem.Header>
+                <Label Content="Процессы"/>
+            </TabItem.Header>
+            
+            <TabItem.Content>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    
+                    <Menu>
+                        <MenuItem Name="StartNewProcessMenuItem" 
+                                  Header="Запустить новую задачу" 
+                                  Click="StartNewProcessMenuItem_Click"/>
+                        <MenuItem Header="Снять задачу" Click="ExitProcess_Click"/>
+                        <MenuItem Header="Выход"/>
+                    </Menu>
+
+                    <ListView Name="ProcessesListView" Grid.Row="1" ContextMenu="{StaticResource ProcessContextMenu}">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn DisplayMemberBinding="{Binding Path=ProcessName}" Width="300">Название</GridViewColumn>
+                                <GridViewColumn DisplayMemberBinding="{Binding Path=Id}" Width="100">ИД</GridViewColumn>
+                                <GridViewColumn DisplayMemberBinding="{Binding Path=PagedMemorySize64}" Width="200">Память</GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+
+                    <StatusBar Grid.Row="2">
+                        <Label Name="StartedProcessCountLabel" Content="Колчичество запущенных процессов: "/>
+                    </StatusBar>
+                </Grid>
+            </TabItem.Content>
+            
+        </TabItem>
+        
+        <TabItem Name="ApplicationsTabItem">
+            
+            <TabItem.Header >
+                <Label Content="Приложения"/>
+            </TabItem.Header>
+
+            <TabItem.Content>
+                <Grid>
+
+                    <ListView Name="ApplicationsListView">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn DisplayMemberBinding="{Binding Path=MainWindowTitle}" Width="300">Приложение</GridViewColumn>
+                                <GridViewColumn DisplayMemberBinding="{Binding Path=StartTime}" Width="100">Время запуска</GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+
+                </Grid>
+            </TabItem.Content>
+        </TabItem>
+    </TabControl>
+    
+    
+</Window>

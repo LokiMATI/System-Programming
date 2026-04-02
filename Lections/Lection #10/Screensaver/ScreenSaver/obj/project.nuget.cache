@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iBESyzgMz4c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #10\\Screensaver\\ScreenSaver\\ScreenSaver.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\system.commandline\\3.0.0-preview.2.26159.112\\system.commandline.3.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

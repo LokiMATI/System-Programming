@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|solutionrelative:windowapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#17\\labwork#17\\windowapplication\\drivemanagerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|solutionrelative:windowapplication\\drivemanagerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#17\\labwork#17\\windowapplication\\windows\\driverpropertywindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|solutionrelative:windowapplication\\windows\\driverpropertywindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#17\\labwork#17\\windowapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|solutionrelative:windowapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#17\\labwork#17\\windowapplication\\windows\\driverpropertywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|solutionrelative:windowapplication\\windows\\driverpropertywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#17\\labwork#17\\windowapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|solutionrelative:windowapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#17\\labwork#17\\windowapplication\\drivemanagerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|solutionrelative:windowapplication\\drivemanagerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#17\\labwork#17\\windowapplication\\windows\\driverpropertywindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B1E02D97-BE2B-4832-A062-F243CDBF88F2}|WindowApplication\\WindowApplication.csproj|solutionrelative:windowapplication\\windows\\driverpropertywindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DriverPropertyWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#17\\LabWork#17\\WindowApplication\\Windows\\DriverPropertyWindow.xaml.cs",
               "RelativeDocumentMoniker": "WindowApplication\\Windows\\DriverPropertyWindow.xaml.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "WindowApplication\\Windows\\DriverPropertyWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T09:23:36.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T09:23:36.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DriverPropertyWindow.xaml",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#17\\LabWork#17\\WindowApplication\\Windows\\DriverPropertyWindow.xaml",
               "RelativeDocumentMoniker": "WindowApplication\\Windows\\DriverPropertyWindow.xaml",
@@ -59,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DriveManagerInfo.cs",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#17\\LabWork#17\\WindowApplication\\DriveManagerInfo.cs",
               "RelativeDocumentMoniker": "WindowApplication\\DriveManagerInfo.cs",
@@ -78,14 +77,14 @@
               "RelativeDocumentMoniker": "WindowApplication\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#17\\LabWork#17\\WindowApplication\\MainWindow.xaml.cs",
               "RelativeToolTip": "WindowApplication\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAIwKAAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAIwKAAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T06:56:01.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#17\\LabWork#17\\WindowApplication\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WindowApplication\\MainWindow.xaml",

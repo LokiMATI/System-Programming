@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #10\\Screensaver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57233AA3-15DF-49DF-8CEA-FB4321AD490E}|ScreenSaver\\ScreenSaver.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\lection #10\\screensaver\\screensaver\\screensaver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57233AA3-15DF-49DF-8CEA-FB4321AD490E}|ScreenSaver\\ScreenSaver.csproj|solutionrelative:screensaver\\screensaver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57233AA3-15DF-49DF-8CEA-FB4321AD490E}|ScreenSaver\\ScreenSaver.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\lection #10\\screensaver\\screensaver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57233AA3-15DF-49DF-8CEA-FB4321AD490E}|ScreenSaver\\ScreenSaver.csproj|solutionrelative:screensaver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57233AA3-15DF-49DF-8CEA-FB4321AD490E}|ScreenSaver\\ScreenSaver.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\lection #10\\screensaver\\screensaver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57233AA3-15DF-49DF-8CEA-FB4321AD490E}|ScreenSaver\\ScreenSaver.csproj|solutionrelative:screensaver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57233AA3-15DF-49DF-8CEA-FB4321AD490E}|ScreenSaver\\ScreenSaver.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\lection #10\\screensaver\\screensaver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57233AA3-15DF-49DF-8CEA-FB4321AD490E}|ScreenSaver\\ScreenSaver.csproj|solutionrelative:screensaver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScreenSaver",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #10\\Screensaver\\ScreenSaver\\ScreenSaver.csproj",
+              "RelativeDocumentMoniker": "ScreenSaver\\ScreenSaver.csproj",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #10\\Screensaver\\ScreenSaver\\ScreenSaver.csproj",
+              "RelativeToolTip": "ScreenSaver\\ScreenSaver.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-02T06:30:37.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #10\\Screensaver\\ScreenSaver\\Form1.cs",
+              "RelativeDocumentMoniker": "ScreenSaver\\Form1.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #10\\Screensaver\\ScreenSaver\\Form1.cs",
+              "RelativeToolTip": "ScreenSaver\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T05:58:19.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #10\\Screensaver\\ScreenSaver\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSaver\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #10\\Screensaver\\ScreenSaver\\Program.cs",
+              "RelativeToolTip": "ScreenSaver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T05:43:24.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #10\\Screensaver\\ScreenSaver\\Form1.cs",
+              "RelativeDocumentMoniker": "ScreenSaver\\Form1.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection #10\\Screensaver\\ScreenSaver\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ScreenSaver\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T05:43:14.492Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

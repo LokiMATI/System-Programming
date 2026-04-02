@@ -1,0 +1,2 @@
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #10\Screensaver\ScreenSaver\bin\Release\net8.0-windows\publish\win-x86\ScreenSaver.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection #10\Screensaver\ScreenSaver\bin\Release\net8.0-windows\publish\win-x86\ScreenSaver.exe
