@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\bin\Debug\net8.0\NetApp.exe
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\bin\Debug\net8.0\NetApp.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\bin\Debug\net8.0\NetApp.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\bin\Debug\net8.0\NetApp.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\bin\Debug\net8.0\NetApp.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\obj\Debug\net8.0\NetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\obj\Debug\net8.0\NetApp.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\obj\Debug\net8.0\NetApp.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\obj\Debug\net8.0\NetApp.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\obj\Debug\net8.0\NetApp.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\obj\Debug\net8.0\NetApp.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\obj\Debug\net8.0\refint\NetApp.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\obj\Debug\net8.0\NetApp.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\obj\Debug\net8.0\NetApp.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\NetApp\obj\Debug\net8.0\ref\NetApp.dll

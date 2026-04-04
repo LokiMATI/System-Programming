@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NetApp/NetApp.csproj" />
+  <Project Path="Sockets/Sockets.csproj" />
+</Solution>
