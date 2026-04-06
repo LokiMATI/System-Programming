@@ -1,4 +1,8 @@
 <Solution>
+  <Project Path="Client/Client.csproj" Id="247cd832-9fbf-49a2-ba15-5025e33ca897" />
   <Project Path="NetApp/NetApp.csproj" />
+  <Project Path="Server/Server.csproj" Id="eb22203d-a62c-4698-9347-1bd394f9b83a" />
   <Project Path="Sockets/Sockets.csproj" />
+  <Project Path="UdpClient/UdpClient.csproj" Id="1a073251-f51f-4bec-ace9-1667f5682b48" />
+  <Project Path="UdpServer/UdpServer.csproj" Id="611c0196-7921-4b67-abbb-2fd447e5144f" />
 </Solution>

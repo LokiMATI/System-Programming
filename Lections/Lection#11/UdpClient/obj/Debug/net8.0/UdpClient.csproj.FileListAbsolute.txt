@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\bin\Debug\net8.0\UdpClient.exe
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\bin\Debug\net8.0\UdpClient.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\bin\Debug\net8.0\UdpClient.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\bin\Debug\net8.0\UdpClient.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\bin\Debug\net8.0\UdpClient.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\obj\Debug\net8.0\UdpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\obj\Debug\net8.0\UdpClient.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\obj\Debug\net8.0\UdpClient.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\obj\Debug\net8.0\UdpClient.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\obj\Debug\net8.0\UdpClient.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\obj\Debug\net8.0\UdpClient.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\obj\Debug\net8.0\refint\UdpClient.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\obj\Debug\net8.0\UdpClient.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\obj\Debug\net8.0\UdpClient.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpClient\obj\Debug\net8.0\ref\UdpClient.dll

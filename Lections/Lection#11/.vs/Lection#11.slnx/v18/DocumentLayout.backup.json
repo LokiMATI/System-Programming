@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection#11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7C087C2-6C78-43E9-87D2-85CC20679FA2}|NetApp\\NetApp.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\lection#11\\netapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C087C2-6C78-43E9-87D2-85CC20679FA2}|NetApp\\NetApp.csproj|solutionrelative:netapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A073251-F51F-4BEC-ACE9-1667F5682B48}|UdpClient\\UdpClient.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\lection#11\\udpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A073251-F51F-4BEC-ACE9-1667F5682B48}|UdpClient\\UdpClient.csproj|solutionrelative:udpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611C0196-7921-4B67-ABBB-2FD447E5144F}|UdpServer\\UdpServer.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\lection#11\\udpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611C0196-7921-4B67-ABBB-2FD447E5144F}|UdpServer\\UdpServer.csproj|solutionrelative:udpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection#11\\NetApp\\Program.cs",
-              "RelativeDocumentMoniker": "NetApp\\Program.cs",
-              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection#11\\NetApp\\Program.cs",
-              "RelativeToolTip": "NetApp\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCoAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection#11\\UdpClient\\Program.cs",
+              "RelativeDocumentMoniker": "UdpClient\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection#11\\UdpClient\\Program.cs",
+              "RelativeToolTip": "UdpClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T07:39:55.724Z",
+              "WhenOpened": "2026-04-06T07:40:31.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection#11\\UdpServer\\Program.cs",
+              "RelativeDocumentMoniker": "UdpServer\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Lection#11\\UdpServer\\Program.cs",
+              "RelativeToolTip": "UdpServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:40:15.893Z",
               "EditorCaption": ""
             }
           ]

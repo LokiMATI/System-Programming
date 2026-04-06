@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Test",
+    "Projects": [
+      {
+        "Path": "Server\\Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "Server"
+      },
+      {
+        "Path": "Client\\Client.csproj",
+        "Action": "Start",
+        "DebugTarget": "Client"
+      }
+    ]
+  },
+  {
+    "Name": "Udp",
+    "Projects": [
+      {
+        "Path": "UdpServer\\UdpServer.csproj",
+        "Action": "Start",
+        "DebugTarget": "UdpServer"
+      },
+      {
+        "Path": "UdpClient\\UdpClient.csproj",
+        "Action": "Start",
+        "DebugTarget": "UdpClient"
+      }
+    ]
+  }
+]

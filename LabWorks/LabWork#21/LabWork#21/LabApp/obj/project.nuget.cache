@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6XnTb/a59E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#21\\LabWork#21\\LabApp\\LabApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\system.codedom\\10.0.5\\system.codedom.10.0.5.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.management\\10.0.5\\system.management.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

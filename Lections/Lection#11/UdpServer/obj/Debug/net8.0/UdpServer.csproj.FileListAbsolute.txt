@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\bin\Debug\net8.0\UdpServer.exe
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\bin\Debug\net8.0\UdpServer.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\bin\Debug\net8.0\UdpServer.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\bin\Debug\net8.0\UdpServer.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\bin\Debug\net8.0\UdpServer.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\obj\Debug\net8.0\UdpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\obj\Debug\net8.0\UdpServer.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\obj\Debug\net8.0\UdpServer.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\obj\Debug\net8.0\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\obj\Debug\net8.0\UdpServer.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\obj\Debug\net8.0\UdpServer.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\obj\Debug\net8.0\refint\UdpServer.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\obj\Debug\net8.0\UdpServer.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\obj\Debug\net8.0\UdpServer.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\UdpServer\obj\Debug\net8.0\ref\UdpServer.dll

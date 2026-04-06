@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\bin\Debug\net8.0\Client.exe
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\bin\Debug\net8.0\Client.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\obj\Debug\net8.0\Client.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\Lections\Lection#11\Client\obj\Debug\net8.0\ref\Client.dll
