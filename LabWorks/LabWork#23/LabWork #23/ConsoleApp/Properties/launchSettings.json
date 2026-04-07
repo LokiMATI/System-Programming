@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--folder C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#23\\Images"
+    }
+  }
+}

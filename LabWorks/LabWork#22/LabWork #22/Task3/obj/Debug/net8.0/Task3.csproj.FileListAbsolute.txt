@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\bin\Debug\net8.0\Task3.exe
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\bin\Debug\net8.0\Task3.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\bin\Debug\net8.0\Task3.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\obj\Debug\net8.0\Task3.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\obj\Debug\net8.0\Task3.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\Task3\obj\Debug\net8.0\ref\Task3.dll

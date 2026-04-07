@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpq3+kdo8Xg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#23\\LabWork #23\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\microsoft.win32.systemevents\\10.0.5\\microsoft.win32.systemevents.10.0.5.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.commandline\\2.0.5\\system.commandline.2.0.5.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.drawing.common\\10.0.5\\system.drawing.common.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

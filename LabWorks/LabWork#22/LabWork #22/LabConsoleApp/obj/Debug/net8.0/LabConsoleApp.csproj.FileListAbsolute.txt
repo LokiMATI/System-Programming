@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\bin\Debug\net8.0\LabConsoleApp.exe
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\bin\Debug\net8.0\LabConsoleApp.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\bin\Debug\net8.0\LabConsoleApp.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\bin\Debug\net8.0\LabConsoleApp.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\bin\Debug\net8.0\LabConsoleApp.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\obj\Debug\net8.0\LabConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\obj\Debug\net8.0\LabConsoleApp.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\obj\Debug\net8.0\LabConsoleApp.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\obj\Debug\net8.0\LabConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\obj\Debug\net8.0\LabConsoleApp.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\obj\Debug\net8.0\LabConsoleApp.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\obj\Debug\net8.0\refint\LabConsoleApp.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\obj\Debug\net8.0\LabConsoleApp.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\obj\Debug\net8.0\LabConsoleApp.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#22\LabWork #22\LabConsoleApp\obj\Debug\net8.0\ref\LabConsoleApp.dll
