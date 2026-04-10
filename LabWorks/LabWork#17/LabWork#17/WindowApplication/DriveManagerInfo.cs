@@ -7,7 +7,7 @@ public class DriveManagerInfo : ObjectManagerInfo
     public string Size { get; set; }
     public long TotalSize { get; set; }
     public long OccupiedSize { get; set; }
-    public DriveManagerInfo(DriveInfo info) : base(info.Name, @"/Icons/hard_drive.png")
+    public DriveManagerInfo(DriveInfo info) : base(info.Name, info.Name, @"/Icons/hard_drive.png")
     {
         Size = $"Свободно {GetSize(info.AvailableFreeSpace)} / {GetSize(info.TotalSize)}";
         TotalSize = info.TotalSize;

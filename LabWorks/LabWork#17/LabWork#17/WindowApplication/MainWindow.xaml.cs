@@ -167,6 +167,11 @@ namespace WindowApplication
                 DriverPropertyWindow window = new(DriveInfo.GetDrives().First(d => d.Name == drive.Name));
                 window.ShowDialog();
             }
+            else if (selectedItem is DirectoryManagerInfo directory)
+            {
+                DirectoryPropertyWindow window = new(new DirectoryInfo(directory.FullName));
+                window.ShowDialog();
+            }
         }
     }
 }

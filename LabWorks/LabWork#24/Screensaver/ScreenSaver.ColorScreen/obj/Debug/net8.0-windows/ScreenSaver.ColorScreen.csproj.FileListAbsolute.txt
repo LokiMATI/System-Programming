@@ -1,0 +1,17 @@
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\bin\Debug\net8.0-windows\ScreenSaver.ColorScreen.exe
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\bin\Debug\net8.0-windows\ScreenSaver.ColorScreen.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\bin\Debug\net8.0-windows\ScreenSaver.ColorScreen.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\bin\Debug\net8.0-windows\ScreenSaver.ColorScreen.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\bin\Debug\net8.0-windows\ScreenSaver.ColorScreen.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\ScreenSaver.ColorScreen.Form1.resources
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\ScreenSaver.ColorScreen.csproj.GenerateResource.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\ScreenSaver.ColorScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\ScreenSaver.ColorScreen.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\ScreenSaver.ColorScreen.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\ScreenSaver.ColorScreen.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\ScreenSaver.ColorScreen.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\ScreenSaver.ColorScreen.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\refint\ScreenSaver.ColorScreen.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\ScreenSaver.ColorScreen.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\ScreenSaver.ColorScreen.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ColorScreen\obj\Debug\net8.0-windows\ref\ScreenSaver.ColorScreen.dll

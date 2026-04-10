@@ -1,0 +1,17 @@
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\bin\Debug\net8.0-windows\ScreenSaver.ImageScreen.exe
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\bin\Debug\net8.0-windows\ScreenSaver.ImageScreen.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\bin\Debug\net8.0-windows\ScreenSaver.ImageScreen.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\bin\Debug\net8.0-windows\ScreenSaver.ImageScreen.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\bin\Debug\net8.0-windows\ScreenSaver.ImageScreen.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\ScreenSaver.ImageScreen.csproj.GenerateResource.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\ScreenSaver.ImageScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\ScreenSaver.ImageScreen.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\ScreenSaver.ImageScreen.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\ScreenSaver.ImageScreen.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\ScreenSaver.ImageScreen.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\ScreenSaver.ImageScreen.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\refint\ScreenSaver.ImageScreen.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\ScreenSaver.ImageScreen.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\ScreenSaver.ImageScreen.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\ref\ScreenSaver.ImageScreen.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#24\Screensaver\ScreenSaver.ImageScreen\obj\Debug\net8.0-windows\ScreenSaver.ImageScreen.ImageScreenSaver.resources

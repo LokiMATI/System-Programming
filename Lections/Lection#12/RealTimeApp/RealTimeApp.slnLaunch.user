@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "RealTimeApp.Server\\RealTimeApp.Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "RealTimeApp.Client\\RealTimeApp.Client.csproj",
+        "Action": "Start",
+        "DebugTarget": "RealTimeApp.Client"
+      }
+    ]
+  }
+]

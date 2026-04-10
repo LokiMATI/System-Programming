@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RealTimeApp.Client/RealTimeApp.Client.csproj" />
+  <Project Path="RealTimeApp.Server/RealTimeApp.Server.csproj" />
+</Solution>

@@ -7,7 +7,7 @@ public class FileManagerInfo : ObjectManagerInfo
     public string EditDate { get; set; }
     public string Size { get; set; }
 
-    public FileManagerInfo(FileInfo info) : base(info.Name)
+    public FileManagerInfo(FileInfo info) : base(info.Name, info.FullName)
     {
         EditDate = info.LastWriteTime.ToString();
         Size = GetSize(info.Length);

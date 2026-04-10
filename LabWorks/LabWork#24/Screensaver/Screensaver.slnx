@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ScreenSaver.ColorScreen/ScreenSaver.ColorScreen.csproj" Id="cdee88ed-489e-4073-af9d-d1941394678b" />
+  <Project Path="ScreenSaver.ImageScreen/ScreenSaver.ImageScreen.csproj" Id="914b2036-f3d3-49df-9c5c-44bbbe3b4d56" />
+  <Project Path="ScreenSaver/ScreenSaver.csproj" Id="57233aa3-15df-49df-8cea-fb4321ad490e" />
+</Solution>

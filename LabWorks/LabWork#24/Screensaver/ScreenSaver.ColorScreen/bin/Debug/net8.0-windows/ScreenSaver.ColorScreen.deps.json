@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ScreenSaver.ColorScreen/1.0.0": {
+        "runtime": {
+          "ScreenSaver.ColorScreen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScreenSaver.ColorScreen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
