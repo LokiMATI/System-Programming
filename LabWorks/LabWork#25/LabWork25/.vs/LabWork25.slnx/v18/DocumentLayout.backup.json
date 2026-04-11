@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#25\\LabWork25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4512A52-8D46-484B-9A10-7A4E96588001}|LabWork25\\LabWork25.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#25\\labwork25\\labwork25\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4512A52-8D46-484B-9A10-7A4E96588001}|LabWork25\\LabWork25.csproj|solutionrelative:labwork25\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4512A52-8D46-484B-9A10-7A4E96588001}|LabWork25\\LabWork25.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#25\\labwork25\\labwork25\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4512A52-8D46-484B-9A10-7A4E96588001}|LabWork25\\LabWork25.csproj|solutionrelative:labwork25\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4512A52-8D46-484B-9A10-7A4E96588001}|LabWork25\\LabWork25.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#25\\labwork25\\labwork25\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4512A52-8D46-484B-9A10-7A4E96588001}|LabWork25\\LabWork25.csproj|solutionrelative:labwork25\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomButton.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#25\\LabWork25\\LabWork25\\CustomButton.cs",
+              "RelativeDocumentMoniker": "LabWork25\\CustomButton.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#25\\LabWork25\\LabWork25\\CustomButton.cs",
+              "RelativeToolTip": "LabWork25\\CustomButton.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwFIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T05:29:32.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#25\\LabWork25\\LabWork25\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork25\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#25\\LabWork25\\LabWork25\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork25\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-11T05:29:16.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#25\\LabWork25\\LabWork25\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork25\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#25\\LabWork25\\LabWork25\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork25\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T05:29:15.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ConsoleClient/ConsoleClient.csproj" Id="f17ed49a-bad2-4e21-919f-174f2661d225" />
+  <Project Path="ConsoleServer/ConsoleServer.csproj" Id="2232cb0d-f4ca-4383-9a00-8e41d226e30f" />
+  <Project Path="FileConsoleClient/FileConsoleClient.csproj" Id="b8c57150-9afe-4da7-9742-97749163e90b" />
+  <Project Path="FileConsoleServer/FileConsoleServer.csproj" Id="2e91b39c-7241-4762-91f5-12a0ea5edd15" />
+  <Project Path="TcpClient/TcpClient.csproj" Id="d0eccaac-3589-425e-a670-e923f4922c72" />
+  <Project Path="TcpServer/TcpServer.csproj" Id="3f7f9ec5-5b33-4a1d-a460-732654a373fb" />
+</Solution>

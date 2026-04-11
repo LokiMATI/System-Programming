@@ -1,0 +1,45 @@
+[
+  {
+    "Name": "TCP",
+    "Projects": [
+      {
+        "Path": "TcpServer\\TcpServer.csproj",
+        "Action": "Start",
+        "DebugTarget": "TcpServer"
+      },
+      {
+        "Path": "TcpClient\\TcpClient.csproj",
+        "Action": "Start",
+        "DebugTarget": "TcpClient"
+      }
+    ]
+  },
+  {
+    "Name": "UDP",
+    "Projects": [
+      {
+        "Path": "ConsoleServer\\ConsoleServer.csproj",
+        "Action": "Start",
+        "DebugTarget": "ConsoleServer"
+      },
+      {
+        "Path": "ConsoleClient\\ConsoleClient.csproj",
+        "Action": "Start",
+        "DebugTarget": "ConsoleClient"
+      }
+    ]
+  },
+  {
+    "Name": "FileConsole",
+    "Projects": [
+      {
+        "Path": "FileConsoleServer\\FileConsoleServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FileConsoleClient\\FileConsoleClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

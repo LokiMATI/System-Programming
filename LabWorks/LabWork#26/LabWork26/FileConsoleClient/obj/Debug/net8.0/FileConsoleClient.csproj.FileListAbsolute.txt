@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\bin\Debug\net8.0\FileConsoleClient.exe
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\bin\Debug\net8.0\FileConsoleClient.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\bin\Debug\net8.0\FileConsoleClient.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\bin\Debug\net8.0\FileConsoleClient.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\bin\Debug\net8.0\FileConsoleClient.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\obj\Debug\net8.0\FileConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\obj\Debug\net8.0\FileConsoleClient.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\obj\Debug\net8.0\FileConsoleClient.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\obj\Debug\net8.0\FileConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\obj\Debug\net8.0\FileConsoleClient.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\obj\Debug\net8.0\FileConsoleClient.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\obj\Debug\net8.0\refint\FileConsoleClient.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\obj\Debug\net8.0\FileConsoleClient.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\obj\Debug\net8.0\FileConsoleClient.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\FileConsoleClient\obj\Debug\net8.0\ref\FileConsoleClient.dll

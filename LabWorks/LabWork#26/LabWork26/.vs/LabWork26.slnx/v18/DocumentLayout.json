@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#26\\LabWork26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91B39C-7241-4762-91F5-12A0EA5EDD15}|FileConsoleServer\\FileConsoleServer.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#26\\labwork26\\fileconsoleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E91B39C-7241-4762-91F5-12A0EA5EDD15}|FileConsoleServer\\FileConsoleServer.csproj|solutionrelative:fileconsoleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2232CB0D-F4CA-4383-9A00-8E41D226E30F}|ConsoleServer\\ConsoleServer.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#26\\labwork26\\consoleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2232CB0D-F4CA-4383-9A00-8E41D226E30F}|ConsoleServer\\ConsoleServer.csproj|solutionrelative:consoleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C57150-9AFE-4DA7-9742-97749163E90B}|FileConsoleClient\\FileConsoleClient.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\labworks\\labwork#26\\labwork26\\fileconsoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C57150-9AFE-4DA7-9742-97749163E90B}|FileConsoleClient\\FileConsoleClient.csproj|solutionrelative:fileconsoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#26\\LabWork26\\ConsoleServer\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleServer\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#26\\LabWork26\\ConsoleServer\\Program.cs",
+              "RelativeToolTip": "ConsoleServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:58:47.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#26\\LabWork26\\FileConsoleServer\\Program.cs",
+              "RelativeDocumentMoniker": "FileConsoleServer\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#26\\LabWork26\\FileConsoleServer\\Program.cs",
+              "RelativeToolTip": "FileConsoleServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:07:39.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#26\\LabWork26\\FileConsoleClient\\Program.cs",
+              "RelativeDocumentMoniker": "FileConsoleClient\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#26\\LabWork26\\FileConsoleClient\\Program.cs",
+              "RelativeToolTip": "FileConsoleClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T09:49:17.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

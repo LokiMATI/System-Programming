@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\obj\Debug\net8.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\obj\Debug\net8.0\TcpServer.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\obj\Debug\net8.0\TcpServer.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\obj\Debug\net8.0\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\obj\Debug\net8.0\TcpServer.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\bin\Debug\net8.0\TcpServer.exe
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\bin\Debug\net8.0\TcpServer.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\bin\Debug\net8.0\TcpServer.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\bin\Debug\net8.0\TcpServer.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\bin\Debug\net8.0\TcpServer.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\obj\Debug\net8.0\TcpServer.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\obj\Debug\net8.0\refint\TcpServer.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\obj\Debug\net8.0\TcpServer.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\obj\Debug\net8.0\TcpServer.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\TcpServer\obj\Debug\net8.0\ref\TcpServer.dll

@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\bin\Debug\net8.0\ConsoleServer.exe
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\bin\Debug\net8.0\ConsoleServer.deps.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\bin\Debug\net8.0\ConsoleServer.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\bin\Debug\net8.0\ConsoleServer.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\bin\Debug\net8.0\ConsoleServer.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\obj\Debug\net8.0\ConsoleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\obj\Debug\net8.0\ConsoleServer.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\obj\Debug\net8.0\ConsoleServer.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\obj\Debug\net8.0\ConsoleServer.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\obj\Debug\net8.0\ConsoleServer.sourcelink.json
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\obj\Debug\net8.0\ConsoleServer.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\obj\Debug\net8.0\refint\ConsoleServer.dll
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\obj\Debug\net8.0\ConsoleServer.pdb
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\obj\Debug\net8.0\ConsoleServer.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\System-Programming\LabWorks\LabWork#26\LabWork26\ConsoleServer\obj\Debug\net8.0\ref\ConsoleServer.dll
