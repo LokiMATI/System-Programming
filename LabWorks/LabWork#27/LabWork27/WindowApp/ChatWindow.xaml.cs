@@ -45,7 +45,7 @@ public partial class ChatWindow : Window
             MessageBox.Show("Поле сообщения не должно быть пустым.", "Ошибка отправки");
             return;
         }
-        await _connection.InvokeAsync("Send", $"{_login}: {MessageTextBox.Text.Trim()}");
+        await _connection.InvokeAsync("Send", MessageTextBox.Text.Trim());
         MessageTextBox.Text = string.Empty;
     }
 }

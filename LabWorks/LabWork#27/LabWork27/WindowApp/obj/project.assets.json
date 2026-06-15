@@ -1072,23 +1072,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\NugetCache\\Packages": {},
+    "C:\\Users\\Lucky\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#27\\LabWork27\\WindowApp\\WindowApp.csproj",
+      "projectUniqueName": "C:\\Users\\Lucky\\source\\repos\\LokiMATI\\System-Programming\\LabWorks\\LabWork#27\\LabWork27\\WindowApp\\WindowApp.csproj",
       "projectName": "WindowApp",
-      "projectPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#27\\LabWork27\\WindowApp\\WindowApp.csproj",
-      "packagesPath": "C:\\NugetCache\\Packages",
-      "outputPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#27\\LabWork27\\WindowApp\\obj\\",
+      "projectPath": "C:\\Users\\Lucky\\source\\repos\\LokiMATI\\System-Programming\\LabWorks\\LabWork#27\\LabWork27\\WindowApp\\WindowApp.csproj",
+      "packagesPath": "C:\\Users\\Lucky\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lucky\\source\\repos\\LokiMATI\\System-Programming\\LabWorks\\LabWork#27\\LabWork27\\WindowApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\221\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lucky\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
