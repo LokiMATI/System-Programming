@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Work",
+    "Projects": [
+      {
+        "Path": "LabWork27\\LabWork27.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WindowApp\\WindowApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
