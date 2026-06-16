@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05EA2812-68E2-4D61-BDE2-B7E5AFFFE6EC}|GrpcClient\\GrpcClient.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\grpc\\lection\\grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EA2812-68E2-4D61-BDE2-B7E5AFFFE6EC}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F6B04-994E-45D6-B3BB-DCA820048A6F}|GrpcApp\\GrpcApp.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\grpc\\lection\\grpcapp\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F6B04-994E-45D6-B3BB-DCA820048A6F}|GrpcApp\\GrpcApp.csproj|solutionrelative:grpcapp\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EA2812-68E2-4D61-BDE2-B7E5AFFFE6EC}|GrpcClient\\GrpcClient.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\grpc\\lection\\grpcclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{05EA2812-68E2-4D61-BDE2-B7E5AFFFE6EC}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F6B04-994E-45D6-B3BB-DCA820048A6F}|GrpcApp\\GrpcApp.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\grpc\\lection\\grpcapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{128F6B04-994E-45D6-B3BB-DCA820048A6F}|GrpcApp\\GrpcApp.csproj|solutionrelative:grpcapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F6B04-994E-45D6-B3BB-DCA820048A6F}|GrpcApp\\GrpcApp.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\grpc\\lection\\grpcapp\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{128F6B04-994E-45D6-B3BB-DCA820048A6F}|GrpcApp\\GrpcApp.csproj|solutionrelative:grpcapp\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F6B04-994E-45D6-B3BB-DCA820048A6F}|GrpcApp\\GrpcApp.csproj|c:\\users\\221\\students\\ispp-31\\system-programming\\lections\\grpc\\lection\\grpcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F6B04-994E-45D6-B3BB-DCA820048A6F}|GrpcApp\\GrpcApp.csproj|solutionrelative:grpcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GrpcApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GrpcApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T06:08:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcClient\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "GrpcClient\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcClient\\Protos\\greet.proto",
+              "RelativeToolTip": "GrpcClient\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2026-06-16T06:03:57.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcClient\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcClient\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcClient\\Program.cs",
+              "RelativeToolTip": "GrpcClient\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:59:06.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcApp\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "GrpcApp\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcApp\\Services\\GreeterService.cs",
+              "RelativeToolTip": "GrpcApp\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:52:12.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcApp\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "GrpcApp\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcApp\\Protos\\greet.proto",
+              "RelativeToolTip": "GrpcApp\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2026-06-16T05:39:46.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcApp\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcApp\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcApp\\Program.cs",
+              "RelativeToolTip": "GrpcApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:38:53.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
