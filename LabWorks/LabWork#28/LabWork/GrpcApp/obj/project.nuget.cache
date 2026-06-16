@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAogf6l5CMs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\GrpcApp\\GrpcApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\google.protobuf\\3.27.0\\google.protobuf.3.27.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\grpc.aspnetcore\\2.64.0\\grpc.aspnetcore.2.64.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\grpc.aspnetcore.server\\2.64.0\\grpc.aspnetcore.server.2.64.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\grpc.aspnetcore.server.clientfactory\\2.64.0\\grpc.aspnetcore.server.clientfactory.2.64.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\grpc.core.api\\2.64.0\\grpc.core.api.2.64.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\grpc.net.client\\2.64.0\\grpc.net.client.2.64.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\grpc.net.clientfactory\\2.64.0\\grpc.net.clientfactory.2.64.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\grpc.net.common\\2.64.0\\grpc.net.common.2.64.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\grpc.tools\\2.64.0\\grpc.tools.2.64.0.nupkg.sha512"
+  ],
+  "logs": []
+}

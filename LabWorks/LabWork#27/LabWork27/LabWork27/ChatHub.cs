@@ -5,8 +5,8 @@ namespace LabWork27;
 
 public class ChatHub : Hub
 {
-    private ConcurrentDictionary<string, string> ConnectionToRoom = new();
-    private ConcurrentDictionary<string, string> ConnectionToUser = new();
+    private static ConcurrentDictionary<string, string> ConnectionToRoom = new();
+    private static ConcurrentDictionary<string, string> ConnectionToUser = new();
     public async Task Send(string message)
     {
         var connectionId = Context.ConnectionId;

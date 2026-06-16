@@ -1,0 +1,55 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcApp";
+
+import "google/protobuf/timestamp.proto";
+
+package order;
+
+service Order {
+  rpc GetList (VoidRequest) returns (GetListReply);
+  rpc Get (GetRequest) returns (OrderReply);
+  rpc Add (AddRequest) returns (OrderReply);
+  rpc Update (UpdateRequest) returns (OrderReply);
+  rpc Delete (DeleteRequest) returns (DeleteReply);
+}
+
+message VoidRequest { }
+
+message Product {
+	string title = 1;
+	double price = 2;
+}
+
+message OrderReply {
+	int32 id = 1;
+	google.protobuf.Timestamp order_date = 2;
+	repeated Product products = 3;
+}
+
+message GetListReply {
+  repeated OrderReply orders = 1;
+}
+
+message GetRequest {
+	int32 id = 1;
+}
+
+message AddRequest {
+	google.protobuf.Timestamp order_date = 1;
+	repeated Product products = 2;
+}
+
+message UpdateRequest {
+	int32 id = 1;
+	google.protobuf.Timestamp order_date = 2;
+	repeated Product products = 3;
+}
+
+message DeleteRequest {
+	int32 id = 1;
+}
+
+message DeleteReply {
+	bool result = 1;
+}
