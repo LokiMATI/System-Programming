@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IzmpufeHYdw=",
+  "dgSpecHash": "yM8+GhEeTtU=",
   "success": true,
   "projectFilePath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\Фоновые сервисы\\Lection\\WorkerService\\WorkerService.csproj",
   "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\cronos\\0.13.0\\cronos.0.13.0.nupkg.sha512",
     "C:\\NugetCache\\Packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\NugetCache\\Packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\NugetCache\\Packages\\microsoft.extensions.configuration.binder\\8.0.2\\microsoft.extensions.configuration.binder.8.0.2.nupkg.sha512",

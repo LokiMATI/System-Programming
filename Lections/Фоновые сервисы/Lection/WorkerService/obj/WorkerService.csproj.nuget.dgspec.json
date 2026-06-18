@@ -53,6 +53,10 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
+            "Cronos": {
+              "target": "Package",
+              "version": "[0.13.0, )"
+            },
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[8.0.1, )"

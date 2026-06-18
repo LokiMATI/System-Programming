@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "GrpcApp\\Services\\GreeterService.cs",
               "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\Lections\\gRPC\\Lection\\GrpcApp\\Services\\GreeterService.cs",
               "RelativeToolTip": "GrpcApp\\Services\\GreeterService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-16T05:52:12.321Z",
               "EditorCaption": ""
@@ -115,8 +115,7 @@
               "RelativeToolTip": "GrpcApp\\Protos\\greet.proto",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2026-06-16T05:39:46.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T05:39:46.316Z"
             },
             {
               "$type": "Document",

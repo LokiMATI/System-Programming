@@ -2,6 +2,19 @@
   "version": 4,
   "targets": {
     "net8.0": {
+      "Cronos/0.13.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Cronos.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Cronos.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -607,6 +620,30 @@
     }
   },
   "libraries": {
+    "Cronos/0.13.0": {
+      "sha512": "Nkve+Yi0+ol3ntSBRHeW0ka9cJQ8vndSUvvkXqF9LVqwpoqWueyxu/HS275r98RDOmF7/mzRnZW5XXUBXob+TA==",
+      "type": "package",
+      "path": "cronos/0.13.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "cronos.0.13.0.nupkg.sha512",
+        "cronos.nuspec",
+        "icon.png",
+        "lib/net40/Cronos.dll",
+        "lib/net40/Cronos.xml",
+        "lib/net45/Cronos.dll",
+        "lib/net45/Cronos.xml",
+        "lib/net6.0/Cronos.dll",
+        "lib/net6.0/Cronos.xml",
+        "lib/netstandard1.0/Cronos.dll",
+        "lib/netstandard1.0/Cronos.xml",
+        "lib/netstandard2.0/Cronos.dll",
+        "lib/netstandard2.0/Cronos.xml"
+      ]
+    },
     "Microsoft.Extensions.Configuration/8.0.0": {
       "sha512": "0J/9YNXTMWSZP2p2+nvl8p71zpSwokZXZuJW+VjdErkegAnFdO1XlqtA62SJtgVYHdKu3uPxJHcMR/r35HwFBA==",
       "type": "package",
@@ -1539,6 +1576,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Cronos >= 0.13.0",
       "Microsoft.Extensions.Hosting >= 8.0.1"
     ]
   },
@@ -1595,6 +1633,10 @@
         "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
+          "Cronos": {
+            "target": "Package",
+            "version": "[0.13.0, )"
+          },
           "Microsoft.Extensions.Hosting": {
             "target": "Package",
             "version": "[8.0.1, )"
