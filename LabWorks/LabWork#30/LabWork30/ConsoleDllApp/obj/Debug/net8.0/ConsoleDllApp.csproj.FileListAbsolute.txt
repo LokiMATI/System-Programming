@@ -1,0 +1,15 @@
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\bin\Debug\net8.0\ConsoleDllApp.exe
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\bin\Debug\net8.0\ConsoleDllApp.deps.json
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\bin\Debug\net8.0\ConsoleDllApp.runtimeconfig.json
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\bin\Debug\net8.0\ConsoleDllApp.dll
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\bin\Debug\net8.0\ConsoleDllApp.pdb
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\obj\Debug\net8.0\ConsoleDllApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\obj\Debug\net8.0\ConsoleDllApp.AssemblyInfoInputs.cache
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\obj\Debug\net8.0\ConsoleDllApp.AssemblyInfo.cs
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\obj\Debug\net8.0\ConsoleDllApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\obj\Debug\net8.0\ConsoleDllApp.sourcelink.json
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\obj\Debug\net8.0\ConsoleDllApp.dll
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\obj\Debug\net8.0\refint\ConsoleDllApp.dll
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\obj\Debug\net8.0\ConsoleDllApp.pdb
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\obj\Debug\net8.0\ConsoleDllApp.genruntimeconfig.cache
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\ConsoleDllApp\obj\Debug\net8.0\ref\ConsoleDllApp.dll

@@ -1,0 +1,5 @@
+﻿  functions.cpp
+C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\LibDll\functions.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "/functions.cpp")
+  
+  LibDll.vcxproj -> C:\Users\Lucky\source\repos\LokiMATI\System-Programming\LabWorks\LabWork#30\LabWork30\x64\Debug\LibDll.dll
