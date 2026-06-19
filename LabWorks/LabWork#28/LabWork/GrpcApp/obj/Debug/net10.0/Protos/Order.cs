@@ -36,13 +36,16 @@ namespace GrpcApp {
             "dGVSZXF1ZXN0EgoKAmlkGAEgASgFEi4KCm9yZGVyX2RhdGUYAiABKAsyGi5n",
             "b29nbGUucHJvdG9idWYuVGltZXN0YW1wEiAKCHByb2R1Y3RzGAMgAygLMg4u",
             "b3JkZXIuUHJvZHVjdCIbCg1EZWxldGVSZXF1ZXN0EgoKAmlkGAEgASgFIh0K",
-            "C0RlbGV0ZVJlcGx5Eg4KBnJlc3VsdBgBIAEoCDL8AQoFT3JkZXISMgoHR2V0",
-            "TGlzdBISLm9yZGVyLlZvaWRSZXF1ZXN0GhMub3JkZXIuR2V0TGlzdFJlcGx5",
-            "EisKA0dldBIRLm9yZGVyLkdldFJlcXVlc3QaES5vcmRlci5PcmRlclJlcGx5",
-            "EisKA0FkZBIRLm9yZGVyLkFkZFJlcXVlc3QaES5vcmRlci5PcmRlclJlcGx5",
-            "EjEKBlVwZGF0ZRIULm9yZGVyLlVwZGF0ZVJlcXVlc3QaES5vcmRlci5PcmRl",
-            "clJlcGx5EjIKBkRlbGV0ZRIULm9yZGVyLkRlbGV0ZVJlcXVlc3QaEi5vcmRl",
-            "ci5EZWxldGVSZXBseUIKqgIHR3JwY0FwcGIGcHJvdG8z"));
+            "C0RlbGV0ZVJlcGx5Eg4KBnJlc3VsdBgBIAEoCCJQCg1GaWx0ZXJSZXF1ZXN0",
+            "EiwKCG1pbl9kYXRlGAEgASgLMhouZ29vZ2xlLnByb3RvYnVmLlRpbWVzdGFt",
+            "cBIRCgltaW5fcHJpY2UYAiABKAEyugIKBU9yZGVyEjIKB0dldExpc3QSEi5v",
+            "cmRlci5Wb2lkUmVxdWVzdBoTLm9yZGVyLkdldExpc3RSZXBseRI8Cg9HZXRG",
+            "aWx0ZXJlZExpc3QSFC5vcmRlci5GaWx0ZXJSZXF1ZXN0GhMub3JkZXIuR2V0",
+            "TGlzdFJlcGx5EisKA0dldBIRLm9yZGVyLkdldFJlcXVlc3QaES5vcmRlci5P",
+            "cmRlclJlcGx5EisKA0FkZBIRLm9yZGVyLkFkZFJlcXVlc3QaES5vcmRlci5P",
+            "cmRlclJlcGx5EjEKBlVwZGF0ZRIULm9yZGVyLlVwZGF0ZVJlcXVlc3QaES5v",
+            "cmRlci5PcmRlclJlcGx5EjIKBkRlbGV0ZRIULm9yZGVyLkRlbGV0ZVJlcXVl",
+            "c3QaEi5vcmRlci5EZWxldGVSZXBseUIKqgIHR3JwY0FwcGIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.WellKnownTypes.TimestampReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -54,7 +57,8 @@ namespace GrpcApp {
             new pbr::GeneratedClrTypeInfo(typeof(global::GrpcApp.AddRequest), global::GrpcApp.AddRequest.Parser, new[]{ "OrderDate", "Products" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::GrpcApp.UpdateRequest), global::GrpcApp.UpdateRequest.Parser, new[]{ "Id", "OrderDate", "Products" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::GrpcApp.DeleteRequest), global::GrpcApp.DeleteRequest.Parser, new[]{ "Id" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::GrpcApp.DeleteReply), global::GrpcApp.DeleteReply.Parser, new[]{ "Result" }, null, null, null, null)
+            new pbr::GeneratedClrTypeInfo(typeof(global::GrpcApp.DeleteReply), global::GrpcApp.DeleteReply.Parser, new[]{ "Result" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::GrpcApp.FilterRequest), global::GrpcApp.FilterRequest.Parser, new[]{ "MinDate", "MinPrice" }, null, null, null, null)
           }));
     }
     #endregion
@@ -1930,6 +1934,242 @@ namespace GrpcApp {
             break;
           case 8: {
             Result = input.ReadBool();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class FilterRequest : pb::IMessage<FilterRequest>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<FilterRequest> _parser = new pb::MessageParser<FilterRequest>(() => new FilterRequest());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<FilterRequest> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::GrpcApp.OrderReflection.Descriptor.MessageTypes[9]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public FilterRequest() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public FilterRequest(FilterRequest other) : this() {
+      minDate_ = other.minDate_ != null ? other.minDate_.Clone() : null;
+      minPrice_ = other.minPrice_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public FilterRequest Clone() {
+      return new FilterRequest(this);
+    }
+
+    /// <summary>Field number for the "min_date" field.</summary>
+    public const int MinDateFieldNumber = 1;
+    private global::Google.Protobuf.WellKnownTypes.Timestamp minDate_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::Google.Protobuf.WellKnownTypes.Timestamp MinDate {
+      get { return minDate_; }
+      set {
+        minDate_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "min_price" field.</summary>
+    public const int MinPriceFieldNumber = 2;
+    private double minPrice_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public double MinPrice {
+      get { return minPrice_; }
+      set {
+        minPrice_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as FilterRequest);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(FilterRequest other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (!object.Equals(MinDate, other.MinDate)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.Equals(MinPrice, other.MinPrice)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (minDate_ != null) hash ^= MinDate.GetHashCode();
+      if (MinPrice != 0D) hash ^= pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.GetHashCode(MinPrice);
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (minDate_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(MinDate);
+      }
+      if (MinPrice != 0D) {
+        output.WriteRawTag(17);
+        output.WriteDouble(MinPrice);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (minDate_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(MinDate);
+      }
+      if (MinPrice != 0D) {
+        output.WriteRawTag(17);
+        output.WriteDouble(MinPrice);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (minDate_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(MinDate);
+      }
+      if (MinPrice != 0D) {
+        size += 1 + 8;
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(FilterRequest other) {
+      if (other == null) {
+        return;
+      }
+      if (other.minDate_ != null) {
+        if (minDate_ == null) {
+          MinDate = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+        }
+        MinDate.MergeFrom(other.MinDate);
+      }
+      if (other.MinPrice != 0D) {
+        MinPrice = other.MinPrice;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            if (minDate_ == null) {
+              MinDate = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+            }
+            input.ReadMessage(MinDate);
+            break;
+          }
+          case 17: {
+            MinPrice = input.ReadDouble();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            if (minDate_ == null) {
+              MinDate = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+            }
+            input.ReadMessage(MinDate);
+            break;
+          }
+          case 17: {
+            MinPrice = input.ReadDouble();
             break;
           }
         }

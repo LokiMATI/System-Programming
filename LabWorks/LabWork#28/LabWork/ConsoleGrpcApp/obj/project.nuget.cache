@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wKd+xYlTLxA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucky\\source\\repos\\LokiMATI\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\ConsoleGrpcApp\\ConsoleGrpcApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucky\\.nuget\\packages\\google.protobuf\\3.35.1\\google.protobuf.3.35.1.nupkg.sha512",
+    "C:\\Users\\Lucky\\.nuget\\packages\\grpc.core.api\\2.80.0\\grpc.core.api.2.80.0.nupkg.sha512",
+    "C:\\Users\\Lucky\\.nuget\\packages\\grpc.net.client\\2.80.0\\grpc.net.client.2.80.0.nupkg.sha512",
+    "C:\\Users\\Lucky\\.nuget\\packages\\grpc.net.common\\2.80.0\\grpc.net.common.2.80.0.nupkg.sha512",
+    "C:\\Users\\Lucky\\.nuget\\packages\\grpc.tools\\2.81.1\\grpc.tools.2.81.1.nupkg.sha512",
+    "C:\\Users\\Lucky\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Lucky\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

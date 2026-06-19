@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrpcApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cdc0df6b15a2a10b07e3a8496cf7cf5bea772f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+732bca2e7ba6adc07e4ea11cf61ae338c775a440")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrpcApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrpcApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

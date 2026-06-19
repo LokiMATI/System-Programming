@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\GrpcApp\\GrpcApp.csproj": {}
+    "C:\\Users\\Lucky\\source\\repos\\LokiMATI\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\GrpcApp\\GrpcApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\GrpcApp\\GrpcApp.csproj": {
+    "C:\\Users\\Lucky\\source\\repos\\LokiMATI\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\GrpcApp\\GrpcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\GrpcApp\\GrpcApp.csproj",
+        "projectUniqueName": "C:\\Users\\Lucky\\source\\repos\\LokiMATI\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\GrpcApp\\GrpcApp.csproj",
         "projectName": "GrpcApp",
-        "projectPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\GrpcApp\\GrpcApp.csproj",
-        "packagesPath": "C:\\NugetCache\\Packages",
-        "outputPath": "C:\\Users\\221\\Students\\ISPP-31\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\GrpcApp\\obj\\",
+        "projectPath": "C:\\Users\\Lucky\\source\\repos\\LokiMATI\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\GrpcApp\\GrpcApp.csproj",
+        "packagesPath": "C:\\Users\\Lucky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucky\\source\\repos\\LokiMATI\\System-Programming\\LabWorks\\LabWork#28\\LabWork\\GrpcApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\221\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lucky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

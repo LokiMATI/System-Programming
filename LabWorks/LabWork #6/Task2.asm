@@ -1,33 +1,39 @@
-%include "io64.inc"
+%include "io.inc"
 
 section .data
-len: dq 0
-position: dq 0
-string: db "String", 0
-
-section .bss
-substring resw 10
+    s1 db "Hello World", 0
 
 section .text
 global main
 main:
-    mov rbp, rsp; for correct debugging
-    PRINT_STRING "Input length: "
-    GET_UDEC 8, len
+    sub esp, 264
+    lea edi, [esp + 8]
+
+    GET_DEC 4, [esp]
+    GET_DEC 4, [esp + 4]
+
+    mov esi, s1
+    add esi, [esp]
+    mov ecx, [esp + 4]
+    jecxz end_copy
+
+copy_loop:
+    mov al, [esi]
+    test al, al
+    jz end_copy
+    
+    mov [edi], al
+    inc esi
+    inc edi
+    loop copy_loop
+
+end_copy:
+    mov byte [edi], 0
+
+    lea eax, [esp + 8]      ; Передаем адрес s2 из стека для вывода
+    PRINT_STRING [eax]
     NEWLINE
-    
-    PRINT_STRING "Enter position: "
-    GET_UDEC 8, position
-    NEWLINE
-    
-    lea rsi, string
-    add rsi, [position]
-    lea rdi, substring
-    mov rcx, [len]
-    
-    rep movsb
-    
-    PRINT_STRING [substring]
-    
-    xor rax, rax
+
+    add esp, 264            ; Возвращаем стек в исходное состояние
+    xor eax, eax
     ret

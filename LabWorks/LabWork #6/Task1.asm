@@ -1,29 +1,34 @@
-%include "io64.inc"
+%include "io.inc"
 
-global main
- 
 section .data
-string dw "Yes", 0
-len equ $-string
-elemSize equ 2
-count equ len / elemSize
-lastPosition equ count - elemSize
+    src_str db "Hello, World!", 0
+    src_len equ $ - src_str - 1
 
 section .bss
-reveseString resw count
- 
+    dst_str resb src_len + 1
+
 section .text
+global main
 main:
-    mov rbp, rsp; for correct debugging
-    mov rsi, string
-    add rsi, lastPosition
-    mov rdi, reveseString
-    add rdi, lastPosition
-    mov rcx, count
- 
-    std
-    rep movsw
+    mov ebp, esp; for correct debugging
     
-    PRINT_STRING [reveseString]
- 
+    mov esi, src_str
+    add esi, src_len - 1
     
+    mov edi, dst_str
+    mov ecx, src_len
+
+reverse_loop:
+    mov al, [esi]
+    mov [edi], al
+    dec esi
+    inc edi 
+    loop reverse_loop
+
+    mov byte [edi], 0
+
+    PRINT_STRING dst_str
+    NEWLINE
+
+    xor eax, eax
+    ret

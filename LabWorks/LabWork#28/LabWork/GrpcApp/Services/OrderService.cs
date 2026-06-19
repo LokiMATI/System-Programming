@@ -14,6 +14,16 @@ public class OrderService : Order.OrderBase
         return Task.FromResult(reply);
     }
 
+    public override Task<GetListReply> GetFilteredList(FilterRequest request, ServerCallContext context)
+    {
+        var reply = new GetListReply();
+        reply.Orders.AddRange(
+            orders.Where(o => o.Products.Sum(p => p.Price) >= request.MinPrice && 
+            o.OrdrerDate >= request.MinDate.ToDateTime()).Select(ToOrderReply));
+
+        return Task.FromResult(reply);
+    }
+
     public override Task<OrderReply> Get(GetRequest request, ServerCallContext context)
     {
         var id = request.Id;

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Run",
+    "Projects": [
+      {
+        "Path": "GrpcApp\\GrpcApp.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "ConsoleGrpcApp\\ConsoleGrpcApp.csproj",
+        "Action": "Start",
+        "DebugTarget": "ConsoleGrpcApp"
+      }
+    ]
+  }
+]

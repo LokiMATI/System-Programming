@@ -1,31 +1,27 @@
-%include "io64.inc"
-
-section .data
-string: db "", 0
-
-section .bss
-substring resw 10
+%include "io.inc"
 
 section .text
 global main
 main:
-    mov rbp, rsp; for correct debugging
-    PRINT_STRING "Input string: "
-    GET_STRING string, 10
+    sub esp, 256
+    mov edi, esp
+
+    GET_STRING [edi], 256
+
+    mov esi, edi
+
+count_loop:
+    cmp byte [esi], 0
+    je end_count
+    inc esi
+    jmp count_loop
+
+end_count:
+    sub esi, edi
+
+    PRINT_DEC 4, esi
     NEWLINE
-    
-    lea edi, [string]
-    xor ecx, ecx
-    
-    while:
-    cmp byte [edi + ecx], 0
-    je end_while
-        inc ecx
-        jmp while
-    end_while: 
-    
-    PRINT_STRING "String len: "
-    PRINT_UDEC 4, ecx
-    
-    xor rax, rax
+
+    add esp, 256
+    xor eax, eax
     ret

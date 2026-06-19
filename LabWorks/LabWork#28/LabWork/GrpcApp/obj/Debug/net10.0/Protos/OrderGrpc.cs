@@ -50,6 +50,8 @@ namespace GrpcApp {
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Marshaller<global::GrpcApp.GetListReply> __Marshaller_order_GetListReply = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::GrpcApp.GetListReply.Parser));
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+    static readonly grpc::Marshaller<global::GrpcApp.FilterRequest> __Marshaller_order_FilterRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::GrpcApp.FilterRequest.Parser));
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Marshaller<global::GrpcApp.GetRequest> __Marshaller_order_GetRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::GrpcApp.GetRequest.Parser));
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Marshaller<global::GrpcApp.OrderReply> __Marshaller_order_OrderReply = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::GrpcApp.OrderReply.Parser));
@@ -68,6 +70,14 @@ namespace GrpcApp {
         __ServiceName,
         "GetList",
         __Marshaller_order_VoidRequest,
+        __Marshaller_order_GetListReply);
+
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+    static readonly grpc::Method<global::GrpcApp.FilterRequest, global::GrpcApp.GetListReply> __Method_GetFilteredList = new grpc::Method<global::GrpcApp.FilterRequest, global::GrpcApp.GetListReply>(
+        grpc::MethodType.Unary,
+        __ServiceName,
+        "GetFilteredList",
+        __Marshaller_order_FilterRequest,
         __Marshaller_order_GetListReply);
 
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
@@ -119,6 +129,12 @@ namespace GrpcApp {
       }
 
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+      public virtual global::System.Threading.Tasks.Task<global::GrpcApp.GetListReply> GetFilteredList(global::GrpcApp.FilterRequest request, grpc::ServerCallContext context)
+      {
+        throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
+      }
+
+      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
       public virtual global::System.Threading.Tasks.Task<global::GrpcApp.OrderReply> Get(global::GrpcApp.GetRequest request, grpc::ServerCallContext context)
       {
         throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
@@ -151,6 +167,7 @@ namespace GrpcApp {
     {
       return grpc::ServerServiceDefinition.CreateBuilder()
           .AddMethod(__Method_GetList, serviceImpl.GetList)
+          .AddMethod(__Method_GetFilteredList, serviceImpl.GetFilteredList)
           .AddMethod(__Method_Get, serviceImpl.Get)
           .AddMethod(__Method_Add, serviceImpl.Add)
           .AddMethod(__Method_Update, serviceImpl.Update)
@@ -165,6 +182,7 @@ namespace GrpcApp {
     public static void BindService(grpc::ServiceBinderBase serviceBinder, OrderBase serviceImpl)
     {
       serviceBinder.AddMethod(__Method_GetList, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::GrpcApp.VoidRequest, global::GrpcApp.GetListReply>(serviceImpl.GetList));
+      serviceBinder.AddMethod(__Method_GetFilteredList, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::GrpcApp.FilterRequest, global::GrpcApp.GetListReply>(serviceImpl.GetFilteredList));
       serviceBinder.AddMethod(__Method_Get, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::GrpcApp.GetRequest, global::GrpcApp.OrderReply>(serviceImpl.Get));
       serviceBinder.AddMethod(__Method_Add, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::GrpcApp.AddRequest, global::GrpcApp.OrderReply>(serviceImpl.Add));
       serviceBinder.AddMethod(__Method_Update, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::GrpcApp.UpdateRequest, global::GrpcApp.OrderReply>(serviceImpl.Update));

@@ -1,29 +1,26 @@
-%include "io64.inc"
+%include "io.inc"
 
 section .text
-global _start
+global main
+main:
+    mov ebp, esp
 
+    GET_DEC 4, eax          
 
-_start:
-    mov rcx, 4
-    mov rdx, 2
-    call pow
-    PRINT_STRING "Result: "
-    PRINT_UDEC 8, rax
-    
+    call double_value       
+
+    PRINT_DEC 4, eax
+    NEWLINE
+
+    xor eax, eax
     ret
 
-pow:
-    mov rax, rcx 
-    mov rcx, rdx
-    mov rdx, rax
-    mov rax, 1
-    cmp rcx, 0
-    je loop_end
-    
-mainloop:
-    mul rdx
-    loop mainloop
-    
-loop_end:
+double_value:
+    push ebp
+    mov ebp, esp
+
+    shl eax, 1
+
+    mov esp, ebp
+    pop ebp
     ret
